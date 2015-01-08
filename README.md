@@ -13,7 +13,7 @@ Version 0.0001, released 2015-01-08.
 
 Or
 
-        $ map-metro.pl route Budapest 1 4 
+        $ map-metro.pl route Budapest "II. János Pál pápa tér" "Opera"
 
 # DESCRIPTION
 
@@ -26,6 +26,10 @@ See [Map::Metro](https://metacpan.org/pod/Map::Metro) for usage information.
 This map consists of:
 
 - The four metro lines \[[wikipedia](https://en.wikipedia.org/wiki/Budapest_Metro)\]
+
+# SOURCE
+
+[https://github.com/Csson/p5-Map-Metro-Budapest](https://github.com/Csson/p5-Map-Metro-Budapest)
 
 # HOMEPAGE
 

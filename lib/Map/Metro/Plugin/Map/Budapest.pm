@@ -33,7 +33,7 @@ __END__
 
 Or
 
-	$ map-metro.pl route Budapest 1 4 
+	$ map-metro.pl route Budapest "II. János Pál pápa tér" "Opera"
 
 =head1 DESCRIPTION
 
