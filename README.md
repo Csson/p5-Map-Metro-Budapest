@@ -23,7 +23,9 @@ See [Map::Metro](https://metacpan.org/pod/Map::Metro) for usage information.
 
 [Map::Metro::Plugin::Map::Budapest::Lines](https://metacpan.org/pod/Map::Metro::Plugin::Map::Budapest::Lines)
 
-...
+This map consists of:
+
+- The four metro lines \[[wikipedia](https://en.wikipedia.org/wiki/Budapest_Metro)\]
 
 # HOMEPAGE
 

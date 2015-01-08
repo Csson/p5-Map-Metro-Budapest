@@ -43,6 +43,11 @@ See L<Map::Metro> for usage information.
 
 L<Map::Metro::Plugin::Map::Budapest::Lines>
 
-...
+This map consists of:
+
+=for :list
+* The four metro lines [L<wikipedia|https://en.wikipedia.org/wiki/Budapest_Metro>]
+
+=for HTML <p><a href="https://raw.githubusercontent.com/Csson/p5-Map-Metro-Budapest/master/static/images/budapest.png"><img src="https://raw.githubusercontent.com/Csson/p5-Map-Metro-Budapest/master/static/images/budapest.png" style="max-width: 600px" /></a></p>
 
 =cut
