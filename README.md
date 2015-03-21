@@ -4,7 +4,7 @@ Map::Metro::Plugin::Map::Budapest - Map::Metro map for Budapest
 
 # VERSION
 
-Version 0.0001, released 2015-01-08.
+Version 0.1000, released 2015-01-08.
 
 # SYNOPSIS
 
