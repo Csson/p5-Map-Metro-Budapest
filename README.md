@@ -2,9 +2,11 @@
 
 Map::Metro::Plugin::Map::Budapest - Map::Metro map for Budapest
 
+![Requires Perl 5.16+](https://img.shields.io/badge/perl-5.16+-brightgreen.svg) [![Travis status](https://api.travis-ci.org/Csson/p5-Map-Metro-Budapest.svg?branch=master)](https://travis-ci.org/Csson/p5-Map-Metro-Budapest)
+
 # VERSION
 
-Version 0.1000, released 2015-01-08.
+Version 0.1001, released 2015-03-23.
 
 # SYNOPSIS
 
