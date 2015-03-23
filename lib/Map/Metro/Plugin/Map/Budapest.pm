@@ -11,9 +11,6 @@ with 'Map::Metro::Plugin::Map';
 has '+mapfile' => (
     default => 'map-budapest.metro',
 );
-sub map_version {
-    return $VERSION;
-}
 sub map_package {
     return __PACKAGE__;
 }
