@@ -2,8 +2,9 @@ use 5.14.0;
 
 package Map::Metro::Plugin::Map::Budapest;
 
-# VERSION
 # ABSTRACT: Map::Metro map for Budapest
+# AUTHORITY
+our $VERSION = '0.1002';
 
 use Moose;
 with 'Map::Metro::Plugin::Map';
