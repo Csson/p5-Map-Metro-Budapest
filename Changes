@@ -1,23 +1,8 @@
 Revision history for Map-Metro-Plugin-Map-Budapest
 
 {{$NEXT}}
- [API Changes]
-
- [Bug Fixes]
-
- [Documentation]
-
- [Enhancements]
-
- [Meta]
-
- [New Features]
-
- [Requirements]
-
- [Revision]
-
- [Testing]
+ [Other Changes]
+ - Rebuilt with current dzil configuration.
 
 0.1001 2015-03-23T17:35:40Z CET
  [Enhancements]
